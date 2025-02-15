@@ -20,7 +20,7 @@
 
 ## 🔎 How It Works
 
--- Contexts and Reducers:
+- Contexts and Reducers:
   - 1.Theme Context:
     Manages the application's theme (light or dark) through useContext and useReducer.
 
