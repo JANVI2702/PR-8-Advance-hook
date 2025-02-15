@@ -10,7 +10,7 @@
 - <img width="1678" alt="Image" src="https://github.com/user-attachments/assets/ec8c36df-f754-4e7e-936a-eb433c4a8b3d" />
 
 - DARK MODE🌑
-- <img width="1673" alt="Image" src="https://github.com/user-attachments/assets/d335822e-9ed8-41d6-b5fa-d1c4d93320b9" />
+- <img width="1673" alt="Image" src="https://github.com/user-attachments/assets/5d356085-48c3-46b9-8df1-50e463fecfe7" />
 
 ## 🛠️ Technologies Used
 
