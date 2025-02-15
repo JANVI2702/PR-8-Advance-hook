@@ -7,7 +7,7 @@
 ## 📸 Screenshots
 
 - LIGHT MODE ☀️
-- <img width="1678" alt="Image" src="https://github.com/user-attachments/assets/ec8c36df-f754-4e7e-936a-eb433c4a8b3d" />
+- <img width="1680" alt="Image" src="https://github.com/user-attachments/assets/d22b9e3b-0b73-4bd1-81f0-e794b557e1d9" />
 
 - DARK MODE🌑
 - <img width="1673" alt="Image" src="https://github.com/user-attachments/assets/5d356085-48c3-46b9-8df1-50e463fecfe7" />
