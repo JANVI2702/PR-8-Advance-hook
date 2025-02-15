@@ -21,10 +21,10 @@
 ## 🔎 How It Works
 
 - Contexts and Reducers:
-  - 1.Theme Context:
+  - Theme Context:
     Manages the application's theme (light or dark) through useContext and useReducer.
 
-  - 2.Counter Context:
+  - Counter Context:
     Centralizes logic for counter operations.
 
 ## 🛠️ Customization
