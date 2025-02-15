@@ -1,8 +1,8 @@
 # Features
 
--✨ Light/Dark Mode Toggle
--🎛️ Counter with Increment, Decrement, and Reset
--🚀 Custom state management using useReducer,CreateContext,UseContext
+- ✨ Light/Dark Mode Toggle
+- 🎛️ Counter with Increment, Decrement, and Reset
+- 🚀 Custom state management using useReducer,CreateContext,UseContext
 
 ## 📸 Screenshots
 
